@@ -34,5 +34,5 @@ def process_image(image_path):
     print("Processed images have been saved successfully.")
 
 # Example usage
-image_path = "input.jpg"  # Replace with your image path
+image_path = "sample.jpg"  # Replace with your image path
 process_image(image_path)
